@@ -453,7 +453,7 @@ section{
 
 
 
-/* @media (max-width:884px) {
+@media (max-width:884px) {
     body{
         overflow-y: visible;
     }
@@ -474,9 +474,7 @@ section{
         display: none;
     }
 
-    .hamburg,.cancel{
-        display: block;
-    }
+    
 
     .main-container .content{
         width: 80%;
@@ -487,12 +485,9 @@ section{
         height: 2.5rem;
         font-size: 1.5rem;
     }
-    .cancel{
-        color: white;
-    }
-
+   
     .main-container .image{
         width: 80%;
         margin-bottom: 0px;
     }
-} */
+}
